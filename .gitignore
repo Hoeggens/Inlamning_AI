@@ -1,0 +1,34 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore OS generated files
+.DS_Store
+
+# Ignore environment variables
+.env
+
+# Ignore MySQL files
+*.sql
+
+# Ignore compiled object files
+*.o
+
+# Ignore executable files
+*.exe
+
+# Ignore database files
+*.db
+
+# Ignore build files
+/build/
+*.obj
+
+# Ignore CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile

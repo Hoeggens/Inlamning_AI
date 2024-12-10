@@ -1,0 +1,35 @@
+{
+    First, I want this project to be a GitHub repository.
+    Generate a README file, a .gitignore file and a MIT license file.
+    After that, create a prompt.txt file. I will save all the prompts that I give you there.
+}
+
+
+{
+    Now, I want you to generate files with code for a contactbook app for me in C++ with a TUI. 
+    You are supposed to be able to add and save contacts with multiple emails, phone numbers, etc. 
+    I want to be able to search for a name, phone number, and email to get the whole contact. 
+    Remember to add every prompt to prompt.txt at the end of the prompt.txt file.
+
+    Create the following files:
+    1. main.cpp - This will contain the main function and the TUI logic.
+    2. Contact.h - This will contain the definition of the Contact class.
+    3. Contact.cpp - This will contain the implementation of the Contact class.
+    4. ContactBook.h - This will contain the definition of the ContactBook class.
+    5. ContactBook.cpp - This will contain the implementation of the ContactBook class.
+    6. prompt.txt - This will contain all the prompts used.
+    7. CMakeLists.txt - This will contain the build configuration.
+
+    Add the necessary code to each file to implement the functionality described. I will run this project from Ubuntu.
+}
+
+{
+    Now I would like to add a database to save all the contacts for my project, MySQL.
+    Please help me set up the database, write the connection code, and create the necessary tables.
+}
+
+
+{
+    Now I want you to update the README file with instructions on how this project works and how to run it properly.
+}
+
